@@ -22,22 +22,7 @@ This is a **simple calculator program written in x86 Assembly (8086)** using **D
 
 ## 🖥 Requirements
 
-* 8086 emulator (e.g., DOSBox)
-* MASM or TASM assembler
-
-## ▶️ Usage
-
-1. Compile using MASM:
-
-   ```bash
-   masm calculator.asm;
-   link calculator.obj;
-   ```
-2. Run in DOSBox or any x86 environment:
-
-   ```bash
-   calculator.exe
-   ```
+* 8086 emulator (e.g., emu8086)
 
 ## 📷 Demo
 
